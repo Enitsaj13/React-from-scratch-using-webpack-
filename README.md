@@ -8,7 +8,7 @@ Webpack is a fast and lightweight module bundler ✔
 
 Webpack reduces the file size of standard CRA ✔
 
-CRA is 260+ Mb vs 60+ Mb (without git) using webpack ✔
+CRA is 260+ Mb vs 80+ Mb (without git) using webpack ✔
 
 Webpack dev-server is smooth and compared to the server of CRA. ✔
 
